@@ -19,9 +19,6 @@
 - Winner of Hack It Up Hackathon (UI/UX Category)
 - Runner-up in Robo Race Competition
 
-📈 **Projects**:
-- **News App**: Aggregated news articles from various sources, displaying them in a user-friendly interface.
-- **Campus Connect**: Enhanced campus communication with event scheduling, announcements, and forums.
 
 📫 **Contact**:
 - [LinkedIn](https://www.linkedin.com/in/ganesh-singh-parmar-a61538248)
